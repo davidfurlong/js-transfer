@@ -1,0 +1,8 @@
+{
+  "name": "js-transfer",
+  "version": "1.0.0",
+  "description": "JSON2 with support for undefined,NaN,Infinity,-Infinity",
+  "main": "index.min.js",
+  "author": "David Furlong <dvfurlong@gmail.com>",
+  "license": "MIT"
+}
